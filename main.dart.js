@@ -73253,7 +73253,7 @@ xm(){var s=0,r=A.Y(t.H),q=this,p
 var $async$xm=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:p=t.N
 s=2
-return A.a2(A.apo(A.fH("http://652c8f23d0d1df5273ef7a61.mockapi.io/gunawan/v1/register"),A.ax(["username",q.d.a.a,"email",q.e.a.a,"password",q.f.a.a],p,p)),$async$xm)
+return A.a2(A.apo(A.fH("https://652c8f23d0d1df5273ef7a61.mockapi.io/gunawan/v1/register"),A.ax(["username",q.d.a.a,"email",q.e.a.a,"password",q.f.a.a],p,p)),$async$xm)
 case 2:if(b.b===200){p=q.c
 p.toString
 A.vL(p).xe(null)}return A.W(null,r)}})
